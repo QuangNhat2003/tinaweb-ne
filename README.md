@@ -5,7 +5,7 @@ This is a [Tina CMS](https://tina.io/) project.
 Install the project's dependencies:
 
 ```
-yarn install
+npm run install
 ```
 
 Run the project locally:
