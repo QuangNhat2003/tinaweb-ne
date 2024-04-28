@@ -7,7 +7,7 @@ This is a [Tina CMS](https://tina.io/) project.
 Install the project's dependencies:
 
 ```
-npm run install hahaha
+npm run install
 ```
 
 Run the project locally:
